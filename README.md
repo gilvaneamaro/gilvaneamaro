@@ -9,6 +9,6 @@
 <h3>Metrics</h3>
 <br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilvaneamaro&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvaneamaro&langs=compact&langs_count=168&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilvaneamaro&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvaneamaro&theme=dark"/>
 </div>
