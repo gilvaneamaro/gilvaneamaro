@@ -8,7 +8,7 @@
 
 <h3>Metrics</h3>
 <br>
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilvaneamaro&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvaneamaro&theme=dark"/>
 </div>
