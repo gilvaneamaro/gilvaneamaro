@@ -10,6 +10,5 @@
 <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilvaneamaro&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvaneamaro&layout=compact&langs=compact&langs_count=168&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvaneamaro&langs=compact&langs_count=168&theme=dracula"/>
 </div>
-
