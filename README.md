@@ -1,4 +1,4 @@
-### Hi there I'm Gilvane
+# Hi there I'm Gilvane
 
 - 👨‍💻 Here you can check my roadmap to Backend Developer
 - 🔭 I’m currently working at DeMaria Software as support analyst
@@ -6,7 +6,9 @@
 
 ##
 <br>
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilvaneamaro&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvaneamaro&layout=compact&include_all_commits=true&count_private=true&theme=dark"/>
+<div align="center">
+  <a href="https://github.com/gilvaneamaro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilvaneamaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvaneamaro&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
