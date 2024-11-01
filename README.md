@@ -1,8 +1,17 @@
 # Hi there I'm Gilvane
 
-- 👨‍💻 Here you can check my roadmap to Backend Developer
-- 🔭 I’m currently working at DeMaria Software as support analyst
-- 📚 I’m currently learning Java, OOP and SQL.
+I am a dedicated, communicative, and focused developer with solid experience in problem-solving. Throughout my journey, I have participated in academic projects developed in collaboration with real companies, applying my programming skills in a practical way. I am seeking new challenges and opportunities that allow me to grow professionally and contribute with innovative solutions.
+
+Technologies:
+
+- Java
+- Spring Boot
+- Hibernate
+- MySQL
+- Code versioning with Git/GitHub
+- Database modeling
+- Scrum
+
 
 ##
 <br>
