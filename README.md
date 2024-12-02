@@ -17,7 +17,7 @@ Technologies:
 <br>
 <div align="center">
   <a href="https://github.com/gilvaneamaro">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gilvaneamaro&show_icons=true&theme=dark"/> 
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gilvaneamaro&show_icons=true&theme=dark&include_all_commits=true"/> 
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvaneamaro&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
 
 
