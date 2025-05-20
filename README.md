@@ -6,11 +6,19 @@ Technologies:
 
 - Java
 - Spring Boot
-- Hibernate
+- VueJS
+- Javascript
+- HTML
+- CSS
 - MySQL
 - Code versioning with Git/GitHub
 - Database modeling
 - Scrum
+
+--- 
+<p align="center"><a href="https://github.com/gilvaneamaro/PortfolioTG">Click here</a> to see my portfolio</p>
+
+--- 
 
 
 ##
