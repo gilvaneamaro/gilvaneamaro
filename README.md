@@ -1,6 +1,6 @@
-# Hi there I'm Gilvane
+# Welcome
 
-I am a dedicated, communicative, and focused developer with solid experience in problem-solving. Throughout my journey, I have participated in academic projects developed in collaboration with real companies, applying my programming skills in a practical way. I am seeking new challenges and opportunities that allow me to grow professionally and contribute with innovative solutions.
+I'm a dedicated, communicative, and focused developer with solid problem-solving skills. Throughout my journey, I’ve taken part in academic projects developed in collaboration with real companies, applying programming knowledge in practical, real-world scenarios. I'm always looking for new challenges and opportunities that allow me to grow professionally and contribute with innovative, impactful solutions.
 
 Technologies:
 
