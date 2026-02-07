@@ -4,14 +4,10 @@ I'm a dedicated, communicative, and focused developer with solid problem-solving
 
 Technologies:
 
-- Java
-- Spring Boot
-- VueJS
-- Javascript
-- HTML
-- CSS
-- MySQL
-- Code versioning with Git/GitHub
+- C#
+- .NET
+- PostgreSQL
+-  Code versioning with Git/GitHub
 - Database modeling
 - Scrum
 
