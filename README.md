@@ -11,6 +11,11 @@ Technologies:
 - Database modeling
 - Scrum
 
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilvaneamaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvaneamaro&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 --- 
 <p align="center"><a href="https://github.com/gilvaneamaro/PortfolioTG">Click here</a> to see my portfolio</p>
 
