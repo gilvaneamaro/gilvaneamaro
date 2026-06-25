@@ -6,8 +6,9 @@ Technologies:
 
 - C#
 - .NET
+- WinForms
 - PostgreSQL
--  Code versioning with Git/GitHub
+- Code versioning with Git/GitHub
 - Database modeling
 - Scrum
 
